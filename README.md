@@ -1,6 +1,7 @@
 
-ADA_Java_mod2_proj
-Estrutura de dados - Listas
+#ADA Java Projeto Módulo 3
+
+Aplicação Spring Boot
 
 A aplicação consiste no cadastro de alunos, baseado no mesmo seguimento do projeto do MOD02
 
